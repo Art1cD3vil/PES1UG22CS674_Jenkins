@@ -22,7 +22,7 @@ pipeline {
 
         stage('Deploy') {
             steps {
-                echo "Deployment step (Modify as needed)"
+                ech "Deployment step (Modify as needed)"
             }
         }
     }
